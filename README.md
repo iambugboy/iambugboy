@@ -1,10 +1,13 @@
 ## Hi there 👋
 
+<details>
+<summary>My top languages</summary>
+  
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1| Python              |
+|     2| html css              |
+|     3| java              |
 
 
 <!--

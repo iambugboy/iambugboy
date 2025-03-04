@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+---
+> removes the bugs from codes as well as from life who arent like bug-free
+— bugboy
+
 <details>
 <summary>My top languages</summary>
   
@@ -10,9 +15,6 @@
 |     3| java              |
 
 
----
-> removes the bugs from codes as well as from life who arent like bug-free
-— bugboy
 
 <!--
 **iambugboy/iambugboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

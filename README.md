@@ -1,19 +1,22 @@
 ## Hi there 👋
 
 
+<!--to-do: need to add more details about self-->
+
 ---
 > removes the bugs from codes as well as from life who arent like bug-free
- 
+
 — bugboy
 
 <details>
-<summary>My top languages</summary>
+<summary>My goto languages</summary>
   
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1| Python              |
 |     2| html css              |
 |     3| java              |
+</details>
 
 
 
